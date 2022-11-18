@@ -1,0 +1,15 @@
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\bin\Debug\net6.0\Etape1.exe
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\bin\Debug\net6.0\Etape1.deps.json
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\bin\Debug\net6.0\Etape1.runtimeconfig.json
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\bin\Debug\net6.0\Etape1.dll
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\bin\Debug\net6.0\Etape1.pdb
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\Etape1.csproj.AssemblyReference.cache
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\Etape1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\Etape1.AssemblyInfoInputs.cache
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\Etape1.AssemblyInfo.cs
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\Etape1.csproj.CoreCompileInputs.cache
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\Etape1.dll
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\refint\Etape1.dll
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\Etape1.pdb
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\Etape1.genruntimeconfig.cache
+D:\DIC3\dotnet cours\Test\TPC05\Etape1\obj\Debug\net6.0\ref\Etape1.dll
